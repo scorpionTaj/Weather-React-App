@@ -57,7 +57,7 @@ function App() {
           </div>
         }
 
-        <p className="Me">Created By Tajeddine</p>
+        <p className="author">Created By Tajeddine</p>
       </div>
     </div>
   );
